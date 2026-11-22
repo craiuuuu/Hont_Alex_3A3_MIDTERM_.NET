@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoomHub.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b2f722110e6edbf8c9f1c05b37ec6eaa82b2d02")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoomHub.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoomHub.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
